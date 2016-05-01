@@ -38,7 +38,6 @@ $texturegroup "skinfamilies"
 		"eyeball_r.vmt"
 		"eyeball_l.vmt"
 	}
-
 	{
 		"joe_facemap5.vmt"
 		"eyeball_r.vmt"
@@ -51,16 +50,6 @@ $texturegroup "skinfamilies"
 	}
 	{
 		"joe_facemap7.vmt"
-		"eyeball_r.vmt"
-		"eyeball_l.vmt"
-	}
-	{
-		"joe_facemap8.vmt"
-		"eyeball_r.vmt"
-		"eyeball_l.vmt"
-	}
-	{
-		"joe_facemap9.vmt"
 		"eyeball_r.vmt"
 		"eyeball_l.vmt"
 	}
@@ -100,16 +89,6 @@ $texturegroup "skinfamilies"
 		"eyeball_l_blue.vmt"
 	}
 	{
-		"joe_facemap8.vmt"
-		"eyeball_r_blue.vmt"
-		"eyeball_l_blue.vmt"
-	}
-	{
-		"joe_facemap9.vmt"
-		"eyeball_r_blue.vmt"
-		"eyeball_l_blue.vmt"
-	}
-	{
 		"joe_facemap.vmt"
 		"eyeball_r_green.vmt"
 		"eyeball_l_green.vmt"
@@ -141,16 +120,6 @@ $texturegroup "skinfamilies"
 	}
 	{
 		"joe_facemap7.vmt"
-		"eyeball_r_green.vmt"
-		"eyeball_l_green.vmt"
-	}
-	{
-		"joe_facemap8.vmt"
-		"eyeball_r_green.vmt"
-		"eyeball_l_green.vmt"
-	}
-	{
-		"joe_facemap9.vmt"
 		"eyeball_r_green.vmt"
 		"eyeball_l_green.vmt"
 	}

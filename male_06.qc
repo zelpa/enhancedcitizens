@@ -54,16 +54,6 @@ $texturegroup "skinfamilies"
 		"eyeball_l.vmt"
 	}
 	{
-		"eyeball_r.vmt"
-		"sandro_facemap9.vmt"
-		"eyeball_l.vmt"
-	}
-	{
-		"eyeball_r.vmt"
-		"sandro_facemap10.vmt"
-		"eyeball_l.vmt"
-	}
-	{
 		"eyeball_r_blue.vmt"
 		"sandro_facemap.vmt"
 		"eyeball_l_blue.vmt"
@@ -99,16 +89,6 @@ $texturegroup "skinfamilies"
 		"eyeball_l_blue.vmt"
 	}
 	{
-		"eyeball_r_blue.vmt"
-		"sandro_facemap9.vmt"
-		"eyeball_l_blue.vmt"
-	}
-	{
-		"eyeball_r_blue.vmt"
-		"sandro_facemap10.vmt"
-		"eyeball_l_blue.vmt"
-	}
-	{
 		"eyeball_r_green.vmt"
 		"sandro_facemap.vmt"
 		"eyeball_l_green.vmt"
@@ -141,16 +121,6 @@ $texturegroup "skinfamilies"
 	{
 		"eyeball_r_green.vmt"
 		"sandro_facemap8.vmt"
-		"eyeball_l_green.vmt"
-	}
-	{
-		"eyeball_r_green.vmt"
-		"sandro_facemap9.vmt"
-		"eyeball_l_green.vmt"
-	}
-	{
-		"eyeball_r_green.vmt"
-		"sandro_facemap10.vmt"
 		"eyeball_l_green.vmt"
 	}
 }
