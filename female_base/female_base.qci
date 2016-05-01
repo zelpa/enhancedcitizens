@@ -17,6 +17,9 @@ $bodygroup "torso"
 	studio "female_base_torso_combine_1.smd"
 	studio "female_base_torso_combine_2.smd"
 	studio "female_base_torso_combine_3.smd"
+	studio "female_base_torso_jacket_1.smd"
+	studio "female_base_torso_jacket_2.smd"
+	studio "female_base_torso_jacket_3.smd"
 }
 $bodygroup "legs"
 {

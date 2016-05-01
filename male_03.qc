@@ -1,4 +1,4 @@
-$modelname "player/zelpa/male_03.mdl"
+$modelname "player/zelpa/male_03_extended.mdl"
 
 $includemodel "m_anm.mdl"
 

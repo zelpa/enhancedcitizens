@@ -1,4 +1,4 @@
-$modelname "player/zelpa/female_07.mdl"
+$modelname "player/zelpa/female_07_extended.mdl"
 
 $includemodel "f_anm.mdl"
 
