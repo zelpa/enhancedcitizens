@@ -107,6 +107,7 @@ $texturegroup "skinfamilies"
 		"eyeball_r_green.vmt"
 		"eyeball_l_green.vmt"
 	}
+	
 }
 
 $include "female_base/female_base.qci"
